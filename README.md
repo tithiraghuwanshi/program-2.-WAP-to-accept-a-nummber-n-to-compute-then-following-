@@ -1,7 +1,7 @@
 # program-2.-WAP-to-accept-a-nummber-n-to-compute-then-following-
 a. check if 'n' is prime or not
 prime number
-n=int(input('enter a number'))           # n=15
+n=int(input('enter a number'))          
 f=0
 
 for i in range(2,n):
