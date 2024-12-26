@@ -12,3 +12,4 @@ for i in range(2,n):
 
 if f==0:
   print('PRIME')
+
